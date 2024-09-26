@@ -3,9 +3,9 @@
     "noEmit": true,
     "allowJs": true,
     "esModuleInterop": true,
-    "target": "ES2022",
-    "module": "ESNext",
-    "moduleResolution": "Bundler",
+    "target": "esnext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
     "skipLibCheck": false,
     "rootDirs": [
       "./src",
